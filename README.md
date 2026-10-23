@@ -17,3 +17,20 @@ TypeScript, Express, React, Vitest · [live](https://salescout-price-bot-beryl.v
 
 **[Tabigi Bal](https://github.com/MakeByShake/Tabigi-Bal)**: an online honey shop with a cart.
 React, Vite · [live](https://tabigi-bal.vercel.app)
+
+**[Oiland](https://github.com/MakeByShake/Oiland)**: a classroom app for teachers: flashcards and a quiz game, in Kazakh.
+Next.js, TypeScript, Tailwind, shadcn/ui, Zustand · [live](https://oiland.vercel.app)
+
+**[VolunteerHub](https://github.com/MakeByShake/VolunteerHub)**: a platform that connects volunteers with people who need help: tasks on a map, chat, points.
+React, Vite, Tailwind · [live](https://volunteer-hub-mu.vercel.app)
+
+### All live sites
+
+| Project | Live |
+|---|---|
+| MarjanSóz | [marjan-soz.vercel.app](https://marjan-soz.vercel.app) |
+| BayBol Visa | [bay-bol.vercel.app](https://bay-bol.vercel.app) |
+| SaleScout price bot | [salescout-price-bot-beryl.vercel.app](https://salescout-price-bot-beryl.vercel.app) |
+| Tabigi Bal | [tabigi-bal.vercel.app](https://tabigi-bal.vercel.app) |
+| Oiland | [oiland.vercel.app](https://oiland.vercel.app) |
+| VolunteerHub | [volunteer-hub-mu.vercel.app](https://volunteer-hub-mu.vercel.app) |
